@@ -1,0 +1,7 @@
+D:\mio\NET\MaxiPrograma\Cnivel2\POO1\ejemplo1\bin\Debug\ejemplo1.exe.config
+D:\mio\NET\MaxiPrograma\Cnivel2\POO1\ejemplo1\bin\Debug\ejemplo1.exe
+D:\mio\NET\MaxiPrograma\Cnivel2\POO1\ejemplo1\bin\Debug\ejemplo1.pdb
+D:\mio\NET\MaxiPrograma\Cnivel2\POO1\ejemplo1\obj\Debug\ejemplo1.csproj.AssemblyReference.cache
+D:\mio\NET\MaxiPrograma\Cnivel2\POO1\ejemplo1\obj\Debug\ejemplo1.csproj.CoreCompileInputs.cache
+D:\mio\NET\MaxiPrograma\Cnivel2\POO1\ejemplo1\obj\Debug\ejemplo1.exe
+D:\mio\NET\MaxiPrograma\Cnivel2\POO1\ejemplo1\obj\Debug\ejemplo1.pdb
