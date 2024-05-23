@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\clages\\mio\\GitHub_lagesclaudio78\\Curso_C-_intermedio_MaxProg2_POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C19A7E7-C6CD-42CC-8AA8-EDB693333FB9}|Ejemplo2\\Ejemplo2.csproj|c:\\clages\\mio\\github_lagesclaudio78\\curso_c-_intermedio_maxprog2_poo\\ejemplo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C19A7E7-C6CD-42CC-8AA8-EDB693333FB9}|Ejemplo2\\Ejemplo2.csproj|solutionrelative:ejemplo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C19A7E7-C6CD-42CC-8AA8-EDB693333FB9}|Ejemplo2\\Ejemplo2.csproj|C:\\clages\\mio\\GitHub_lagesclaudio78\\Curso_C-_intermedio_MaxProg2_POO\\ejemplo2\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C19A7E7-C6CD-42CC-8AA8-EDB693333FB9}|Ejemplo2\\Ejemplo2.csproj|solutionrelative:ejemplo2\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFEF3AC7-94DB-4E19-9714-0CF567CD72BF}|ejemplo1\\ejemplo1.csproj|C:\\clages\\mio\\GitHub_lagesclaudio78\\Curso_C-_intermedio_MaxProg2_POO\\ejemplo1\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFEF3AC7-94DB-4E19-9714-0CF567CD72BF}|ejemplo1\\ejemplo1.csproj|solutionrelative:ejemplo1\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFEF3AC7-94DB-4E19-9714-0CF567CD72BF}|ejemplo1\\ejemplo1.csproj|C:\\clages\\mio\\GitHub_lagesclaudio78\\Curso_C-_intermedio_MaxProg2_POO\\ejemplo1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFEF3AC7-94DB-4E19-9714-0CF567CD72BF}|ejemplo1\\ejemplo1.csproj|solutionrelative:ejemplo1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A76DFF1C-063C-4AB7-A80B-20F0361E3F1F}|Desafio\\Desafio.csproj|c:\\clages\\mio\\github_lagesclaudio78\\curso_c-_intermedio_maxprog2_poo\\desafio\\telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76DFF1C-063C-4AB7-A80B-20F0361E3F1F}|Desafio\\Desafio.csproj|solutionrelative:desafio\\telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,53 +25,21 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\clages\\mio\\GitHub_lagesclaudio78\\Curso_C-_intermedio_MaxProg2_POO\\Ejemplo2\\Program.cs",
-              "RelativeDocumentMoniker": "Ejemplo2\\Program.cs",
-              "ToolTip": "C:\\clages\\mio\\GitHub_lagesclaudio78\\Curso_C-_intermedio_MaxProg2_POO\\Ejemplo2\\Program.cs",
-              "RelativeToolTip": "Ejemplo2\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA9wBoAAAAhAAAA",
+              "Title": "Telefono.cs",
+              "DocumentMoniker": "C:\\clages\\mio\\GitHub_lagesclaudio78\\Curso_C-_intermedio_MaxProg2_POO\\Desafio\\Telefono.cs",
+              "RelativeDocumentMoniker": "Desafio\\Telefono.cs",
+              "ToolTip": "C:\\clages\\mio\\GitHub_lagesclaudio78\\Curso_C-_intermedio_MaxProg2_POO\\Desafio\\Telefono.cs",
+              "RelativeToolTip": "Desafio\\Telefono.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwCsAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T01:30:09.566Z",
+              "WhenOpened": "2024-05-23T20:46:26.88Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Articulo.cs",
-              "DocumentMoniker": "C:\\clages\\mio\\GitHub_lagesclaudio78\\Curso_C-_intermedio_MaxProg2_POO\\Ejemplo2\\Articulo.cs",
-              "RelativeDocumentMoniker": "Ejemplo2\\Articulo.cs",
-              "ToolTip": "C:\\clages\\mio\\GitHub_lagesclaudio78\\Curso_C-_intermedio_MaxProg2_POO\\Ejemplo2\\Articulo.cs",
-              "RelativeToolTip": "Ejemplo2\\Articulo.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T01:30:07.78Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Perro.cs",
-              "DocumentMoniker": "C:\\clages\\mio\\GitHub_lagesclaudio78\\Curso_C-_intermedio_MaxProg2_POO\\ejemplo1\\Perro.cs",
-              "RelativeDocumentMoniker": "ejemplo1\\Perro.cs",
-              "ToolTip": "C:\\clages\\mio\\GitHub_lagesclaudio78\\Curso_C-_intermedio_MaxProg2_POO\\ejemplo1\\Perro.cs",
-              "RelativeToolTip": "ejemplo1\\Perro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T01:30:05.918Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\clages\\mio\\GitHub_lagesclaudio78\\Curso_C-_intermedio_MaxProg2_POO\\ejemplo1\\Persona.cs",
-              "RelativeDocumentMoniker": "ejemplo1\\Persona.cs",
-              "ToolTip": "C:\\clages\\mio\\GitHub_lagesclaudio78\\Curso_C-_intermedio_MaxProg2_POO\\ejemplo1\\Persona.cs",
-              "RelativeToolTip": "ejemplo1\\Persona.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T01:29:59.657Z"
             }
           ]
         }

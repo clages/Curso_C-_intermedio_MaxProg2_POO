@@ -5,3 +5,10 @@ D:\mio\NET\MaxiPrograma\Cnivel2\POO1\ejemplo1\obj\Debug\ejemplo1.csproj.Assembly
 D:\mio\NET\MaxiPrograma\Cnivel2\POO1\ejemplo1\obj\Debug\ejemplo1.csproj.CoreCompileInputs.cache
 D:\mio\NET\MaxiPrograma\Cnivel2\POO1\ejemplo1\obj\Debug\ejemplo1.exe
 D:\mio\NET\MaxiPrograma\Cnivel2\POO1\ejemplo1\obj\Debug\ejemplo1.pdb
+C:\clages\mio\GitHub_lagesclaudio78\Curso_C-_intermedio_MaxProg2_POO\ejemplo1\obj\Debug\ejemplo1.csproj.AssemblyReference.cache
+C:\clages\mio\GitHub_lagesclaudio78\Curso_C-_intermedio_MaxProg2_POO\ejemplo1\obj\Debug\ejemplo1.csproj.CoreCompileInputs.cache
+C:\clages\mio\GitHub_lagesclaudio78\Curso_C-_intermedio_MaxProg2_POO\ejemplo1\obj\Debug\ejemplo1.exe
+C:\clages\mio\GitHub_lagesclaudio78\Curso_C-_intermedio_MaxProg2_POO\ejemplo1\obj\Debug\ejemplo1.pdb
+C:\clages\mio\GitHub_lagesclaudio78\Curso_C-_intermedio_MaxProg2_POO\ejemplo1\bin\Debug\ejemplo1.exe.config
+C:\clages\mio\GitHub_lagesclaudio78\Curso_C-_intermedio_MaxProg2_POO\ejemplo1\bin\Debug\ejemplo1.exe
+C:\clages\mio\GitHub_lagesclaudio78\Curso_C-_intermedio_MaxProg2_POO\ejemplo1\bin\Debug\ejemplo1.pdb

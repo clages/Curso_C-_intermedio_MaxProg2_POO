@@ -1,0 +1,7 @@
+C:\clages\mio\GitHub_lagesclaudio78\Curso_C-_intermedio_MaxProg2_POO\Ejemplo3\bin\Debug\Ejemplo3.exe.config
+C:\clages\mio\GitHub_lagesclaudio78\Curso_C-_intermedio_MaxProg2_POO\Ejemplo3\bin\Debug\Ejemplo3.exe
+C:\clages\mio\GitHub_lagesclaudio78\Curso_C-_intermedio_MaxProg2_POO\Ejemplo3\bin\Debug\Ejemplo3.pdb
+C:\clages\mio\GitHub_lagesclaudio78\Curso_C-_intermedio_MaxProg2_POO\Ejemplo3\obj\Debug\Ejemplo3.csproj.AssemblyReference.cache
+C:\clages\mio\GitHub_lagesclaudio78\Curso_C-_intermedio_MaxProg2_POO\Ejemplo3\obj\Debug\Ejemplo3.csproj.CoreCompileInputs.cache
+C:\clages\mio\GitHub_lagesclaudio78\Curso_C-_intermedio_MaxProg2_POO\Ejemplo3\obj\Debug\Ejemplo3.exe
+C:\clages\mio\GitHub_lagesclaudio78\Curso_C-_intermedio_MaxProg2_POO\Ejemplo3\obj\Debug\Ejemplo3.pdb

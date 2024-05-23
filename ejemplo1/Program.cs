@@ -27,11 +27,12 @@ namespace ejemplo1
 
             Console.WriteLine("\n\nBOTELLA");
             //Invocar get/set de una propiedad modo C#
-            Botella b1 = new Botella();
-            b1.Capacidad = 10;
-            int traer = b1.Capacidad;
-            Console.WriteLine(traer);
+            Botella b1 = new Botella("rojo", "plastico");
+            Console.WriteLine(b1.mostrar());
+            float traer = b1.recargar(10);
+            Console.WriteLine(b1.mostrar() + "Monto " + traer.ToString("0.00"));
 
+            Console.WriteLine("\n\nPERRO");
             //Invocar get/set C#
             Perro pe1 = new Perro();
             pe1.Nombre = "pep";

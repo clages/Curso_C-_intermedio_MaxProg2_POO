@@ -10,6 +10,10 @@ namespace Ejemplo3
     {
         static void Main(string[] args)
         {
+            string nombre;
+            nombre = Console.ReadLine();
+            Console.WriteLine("hola {0}!", nombre);
+            Console.ReadKey();
         }
     }
 }
